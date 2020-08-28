@@ -6,3 +6,9 @@ if country == '台灣' or 'Taiwan':
 		print('你可以考駕照')
 	else:
 		print('你還不能考駕照')
+elif country == '美國' or 'USA' or 'US' or'Amecrica':
+	if age >= 16:
+		print('你可以考駕照')
+	else:
+		print('你還不能考駕照')
+		
